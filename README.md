@@ -11,7 +11,7 @@
 - 🌱 Learning more about and studying: **Angular, Astro, Writing, Marketing, Entrepreneurship**
 - 💬 Ping me about: **contracting**, **front-end development**, **marketing automation**
 - 💙 Interests: JAMStack, entrepreneurship, traveling, guitar, minimalism
-- 😄 Passionate about giving back and helping web developers succeed
+- 😄 Passionate about helping web developers succeed
 
 #### Find me around the web 🌎:
 
