@@ -16,6 +16,6 @@
 #### Find me around the web 🌎:
 
 - 💼 Connecting and sharing professional updates on [LinkedIn](https://linkedin.com/in/stuartpbw/)
-- 🌐 Updating my personal website with examples of my work on [stuartdoes.dev](https://stuartdoes.dev/)
-- 🐦 Learning and prototyping random ideas on [StackBlitz](https://stackblitz.com/@stuartpbw/)
-- 🎧 Posting mediocre music on [Soundcloud](https://soundcloud.com/blanton-deeps/)
+- 🌐 Updating my personal website on [stuartdoes.dev](https://stuartdoes.dev/)
+- 🧑‍💻 Learning and prototyping random ideas on [StackBlitz](https://stackblitz.com/@stuartpbw/)
+- 🎧 Posting music on [Soundcloud](https://soundcloud.com/blanton-deeps/)
