@@ -17,5 +17,6 @@
 
 - 💼 Connecting and sharing professional updates on [LinkedIn](https://linkedin.com/in/stuartpbw/)
 - 🌐 Updating my personal website on [stuartdoes.dev](https://stuartdoes.dev/)
+- 📚 Sharing ideas and knowledge on [dev.to](https://dev.to/stuartpbw)
 - 🧑‍💻 Learning and prototyping random ideas on [StackBlitz](https://stackblitz.com/@stuartpbw/)
 - 🎧 Posting music on [Soundcloud](https://soundcloud.com/blanton-deeps/)
