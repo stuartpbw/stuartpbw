@@ -7,7 +7,7 @@
 - 📊 Transforming B2B marketers into revenue leaders @ [**Intelligent Demand**](https://intelligentdemand.com)
 - 😎 Open to contracting opportunities if the project sounds cool (especially anything JAMStack)
 - 🏢 Previously a .NET Developer at **Infinity Software** & Accountant at **Florida Dental Association**
-- ⚙️ Love workin' with: `.astro`, `.js`, `.ts`, `.vue`, `.html`, `.scss`, `.mdx`, `.json`
+- ⚙️ Love workin' with: `.astro`, `.js`, `.ts`, `.vue`, `.html`, `.css`, `.mdx`, `.json`
 - 🌱 Learning more about and studying: **Angular, Astro, Writing, Marketing, Entrepreneurship**
 - 💬 Ping me about: **contracting**, **front-end development**, **marketing automation**
 - 💙 Interests: JAMStack, entrepreneurship, traveling, guitar, minimalism
