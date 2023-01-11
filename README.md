@@ -4,14 +4,13 @@
 
 #### I'm a ~~Accountant~~ Revenue Operations Developer based in Denver, Colorado.</h4>
 
-- 📊 Transforming B2B marketers into revenue leaders @ [**Intelligent Demand**](https://intelligentdemand.com)
-- 😎 Open to contracting opportunities if the project sounds cool (especially anything JAMStack)
-- 🏢 Previously a .NET Developer at **Infinity Software** & Accountant at **Florida Dental Association**
-- ⚙️ Love workin' with: `.astro`, `.js`, `.ts`, `.vue`, `.html`, `.css`, `.mdx`, `.json`
-- 🌱 Learning more about: **Angular, Astro, Writing, Marketing, Entrepreneurship**
-- 💬 Ping me about: **contracting**, **front-end development**, **marketing automation**
+- 📊 Currently: transforming enterprise marketing teams into revenue leaders @ [**Intelligent Demand**](https://intelligentdemand.com)
+- 🏢 Previously: Developer @ **Infinity Software** and Accountant @ **Florida Dental Association**
+- ⚙️ Love workin' with: `.astro`, `.js`, `.ts`, `.vue`, `.rb`, `.html`, `.css`, `.mdx`, `.json`
+- 🌱 Learning more about: **Angular, Astro, Vue, Firebase, TypeScript, Tailwind CSS**
+- 💬 Ping me about: **contracting**, **web development**, **marketing automation**
 - 💙 Interests: JAMStack, entrepreneurship, traveling, guitar, minimalism
-- 😄 Passionate about helping web developers succeed
+- 😄 Passions: Shipping high-quality web development solutions
 
 #### Find me around the web 🌎:
 
