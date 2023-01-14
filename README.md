@@ -6,8 +6,8 @@
 
 - 📊 Currently: transforming enterprise marketing teams into revenue leaders @ [**Intelligent Demand**](https://intelligentdemand.com)
 - 🏢 Previously: Developer @ **Infinity Software** and Accountant @ **Florida Dental Association**
-- ⚙️ Love workin' with: `.astro`, `.js`, `.ts`, `.vue`, `.rb`, `.html`, `.css`, `.mdx`, `.json`
-- 🌱 Learning more about: **Angular, Astro, Vue, Firebase, TypeScript, Tailwind CSS**
+- ⚙️ Love workin' with: `.ts`, `.js`, `.html`, `.css`, `.rb`, `.vue`, `.astro`, `.mdx`, `.json`
+- 🌱 Learning more about: **Angular, TypeScript, Firebase, Vue, Astro, Tailwind CSS**
 - 💬 Ping me about: **contracting**, **web development**, **marketing automation**
 - 💙 Interests: JAMStack, entrepreneurship, traveling, guitar, minimalism
 - 😄 Passions: Shipping high-quality web development solutions
