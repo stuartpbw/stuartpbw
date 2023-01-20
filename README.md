@@ -2,7 +2,7 @@
 
 ---
 
-#### I'm a ~~Accountant~~ Revenue Operations Developer based in Denver, Colorado.</h4>
+#### I'm a ~~Accountant~~ Senior Revenue Operations Developer based in Denver, Colorado.</h4>
 
 - 📊 Currently: transforming enterprise marketing teams into revenue leaders @ [**Intelligent Demand**](https://intelligentdemand.com)
 - 🏢 Previously: Developer @ **Infinity Software** and Accountant @ **Florida Dental Association**
