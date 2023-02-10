@@ -4,10 +4,10 @@
 
 #### I'm a ~~Accountant~~ Senior Revenue Operations Developer based in Denver, Colorado.</h4>
 
-- 📊 Currently: transforming enterprise marketing teams into revenue leaders @ [**Intelligent Demand**](https://intelligentdemand.com)
+- 📊 Currently: Transforming enterprise marketing teams into revenue leaders @ [**Intelligent Demand**](https://intelligentdemand.com)
 - 🏢 Previously: Developer @ **Infinity Software** and Accountant @ **Florida Dental Association**
-- ⚙️ Love workin' with: `.ts`, `.js`, `.html`, `.scss`, `.rb`, `.vue`, `.astro`, `.mdx`, `.json`
-- 🌱 Learning more about: **Angular, TypeScript, Firebase, Vue, Astro, Tailwind CSS**
+- ⚙️ Love workin' with: `.ts`, `.js`, `.html`, `.css`, `.rb`, `.php`, `.vue`, `.mdx`, `.json`
+- 🌱 Learning more about: **Open Source, Firebase, TypeScript, Eleventy, Vite, PostCSS**
 - 💬 Ping me about: **contracting**, **web development**, **marketing automation**
 - 💙 Interests: JAMStack, entrepreneurship, traveling, guitar, minimalism
 - 😄 Passions: Shipping high-quality web development solutions
