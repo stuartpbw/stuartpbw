@@ -18,4 +18,3 @@
 - 🌐 Updating my personal website on [stuartdoes.dev](https://stuartdoes.dev/)
 - 📚 Giving back to the community on [dev.to](https://dev.to/stuartpbw)
 - 🧑‍💻 Prototyping ideas on [StackBlitz](https://stackblitz.com/@stuartpbw/)
-- 🎧 Posting music on [Soundcloud](https://soundcloud.com/blanton-deeps/)
